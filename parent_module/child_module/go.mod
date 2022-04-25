@@ -1,4 +1,4 @@
-module github.com/tenenwurcel/test2/parent_module/child_module/v1
+module github.com/tenenwurcel/test2/parent_module/child_module/v2
 
 go 1.17
 
